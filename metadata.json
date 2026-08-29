@@ -1,0 +1,6 @@
+{
+  "name": "SOS-MAT - Sosyal & Matematik Eğitim ve Takip Portalı",
+  "description": "Sosyal Bilgiler ve Matematik dersleri için öğrenci devamsızlık ve ödev takibi, video aktif izleme analitiği, yıllık plan, interaktif eğitsel oyunlar ve rozet ödül sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
